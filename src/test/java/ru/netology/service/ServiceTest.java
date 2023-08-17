@@ -1,3 +1,5 @@
+package ru.netology.service;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

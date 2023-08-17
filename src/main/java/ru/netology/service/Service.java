@@ -1,3 +1,4 @@
+package ru.netology.service;
 
 public class Service {
     public int calc(int income, int expenses, int threshold) {
